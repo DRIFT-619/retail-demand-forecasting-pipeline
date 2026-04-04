@@ -1,9 +1,9 @@
---extra-index-url https://download.pytorch.org/whl/cpu
+--index-url https://download.pytorch.org/whl/cpu
 
 numpy<2
-torch==2.1.2+cpu
+torch==2.1.2
 scikit-learn
-mlflow
+mlflow-skinny
 joblib
 fastapi
 uvicorn
