@@ -1,7 +1,4 @@
---index-url https://download.pytorch.org/whl/cpu
-
 numpy<2
-torch==2.1.2
 scikit-learn
 mlflow-skinny
 joblib
