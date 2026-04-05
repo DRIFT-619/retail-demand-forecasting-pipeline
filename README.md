@@ -146,5 +146,5 @@ Built a production-grade ML system that goes beyond model training by incorporat
 - Real-world system design
 
 ## Author ->
-**Ayush Saxena**
+**Ayush Saxena** <br>
 GitHub: https://github.com/DRIFT-619
